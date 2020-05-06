@@ -1,0 +1,18 @@
+.rs_reviews_button_line
+{
+    margin-top:10px;
+}
+.rs_reviews_button_line button
+{
+    margin-right:10px;
+    margin-bottom:10px;
+    
+}
+.rs_reviews_reviews_list
+{
+    margin-bottom:10px;
+}
+.rs_reviews_reviews_list > div 
+{
+    display:none;
+}

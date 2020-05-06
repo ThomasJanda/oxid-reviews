@@ -1,0 +1,1 @@
+[{include file="rs/reviews/views/tpl/widget/reviews/reviews.tpl"}]
