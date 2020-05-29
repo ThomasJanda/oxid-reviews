@@ -26,7 +26,7 @@ Give the user the option to display reviews in different languages.
 
 4. Template changes
 
-    Make following changes on file /source/Application/views/wave_cust/tpl/page/details/inc/fullproductinfo.tpl
+    Make following changes on file /source/Application/views/wave/tpl/page/details/inc/fullproductinfo.tpl
 
         <div class="reviews">
             <div class="h2 reviews-header">[{oxmultilang ident="WRITE_PRODUCT_REVIEW"}]</div>
